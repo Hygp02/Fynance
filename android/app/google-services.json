@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813842651622",
+    "project_id": "fynance-fa78d",
+    "storage_bucket": "fynance-fa78d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813842651622:android:69684e159ff432af18de27",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjrs9OcbqQ6nP5WukeLBgiOmMPl1FktcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813842651622:android:5e2c15d39fb17ec518de27",
+        "android_client_info": {
+          "package_name": "fynance.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjrs9OcbqQ6nP5WukeLBgiOmMPl1FktcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
