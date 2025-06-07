@@ -1,16 +1,12 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Projeto Integrador
+### Criar um app de controle de gastos
+### Funcionalidades: 
+ - Adicionar gastos
+ - Adicionar receitas
+ - Visualizar performance entre gastos e despesas
+ - Login
+ - Cadastro
+### Tecnologias:
+- Flutter
+- Firebase (BaaS)
+### Link do Trello: https://trello.com/invite/b/684470d97c4c8a03269af9f3/ATTIc78cd23952687c0505a448512ecf3be75F7D4464/fynance
